@@ -46,13 +46,9 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/panchapal/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+### 📈 My GitHub Activity  
+[![Panchanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=panchapal&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/panchapal/github-readme-activity-graph)
+
 
 <hr/>
 
