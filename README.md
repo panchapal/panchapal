@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on React Js
 - 🌱 I’m currently learning Next Js
 - 📫 How to reach me: panchananpal13@gmail.com
-- 😄 My website: https://formanhairlife.com/test/
+- 😄 My website: https://portfolio-ktmj.vercel.app/
 - ⚡ Fun fact: I'm comming to teen
 
  </div>
